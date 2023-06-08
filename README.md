@@ -1,3 +1,3 @@
 # git-flow-demo
 
-## Alpha v0.1.0
+## Alpha v0.1.1
